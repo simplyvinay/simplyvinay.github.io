@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 
 /haacked-theme-0.1.0.gem
+/Gemfile.lock
