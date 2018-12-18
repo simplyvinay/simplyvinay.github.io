@@ -20,11 +20,10 @@ Following are a few things about TDD that I have understood
 
 *The Steps*
 
-​1) We write a failing test. We have to identity whether the test is
-testing what is intended in this step. \
-2) We make sure the test written in step 1 passes. \
-3) We refactor the code written in step 2.
-
+1. We write a failing test. We have to identity whether the test is testing what is intended in this step.
+2. We make sure the test written in step 1 passes.
+3. We refactor the code written in step 2.
+​
 We can also segregate a single test into 3 sections viz. *Arrange*–
 Where we setup everything that is there to test, *Act*– We do everything
 there is to do with the test, *Assert*– We check our assertions to be
@@ -46,8 +45,8 @@ maintenance work.
 
 There will certain areas in our development which when tested might be
 too slow or difficult to setup for example the UI or the database
-operation. To overcome these difficulties we can use stubs or mocks. \
- \
+operation. To overcome these difficulties we can use stubs or mocks. 
+ 
 A stub is a light weight implementation of a real object. It is a way to
 setup the expected values that can be used within the test. In tests
 stubs we create a class that impersonates the actual class that we have

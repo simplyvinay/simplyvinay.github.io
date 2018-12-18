@@ -11,26 +11,27 @@ about the Visitor Pattern today. Visitor is behavioral pattern. You can
 read about the other behavioral patterns from the following links.
 
 1.  [Strategy
-    Pattern](/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx)
+    Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State
-    Pattern](/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx)
+    Pattern](/2009/01/15/Design-Patterns-for-Dummies.-The-State-Pattern/)
 3.  [Template Method
-    Pattern](/Post/32/Design-Patterns-for-Dummies.-The-Template-Method-Pattern.aspx)
+    Pattern](/2009/01/19/Design-Patterns-for-Dummies.-The-Template-Method-Pattern/)
 4.  [Chain of Responsibility
-    Pattern](/Post/33/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern.aspx)
+    Pattern](/2009/01/22/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern/)
 5.  [Command
-    Pattern](/Post/34/Design-Patterns-for-Dummies.-The-Command-Pattern.aspx)
+    Pattern](/2009/02/02/Design-Patterns-for-Dummies.-The-Command-Pattern/)
 6.  [Iterator
-    Pattern](/Post/35/Design-Patterns-for-Dummies.-The-Iterator-Pattern.aspx)
+    Pattern](/2009/02/05/Design-Patterns-for-Dummies.-The-Iterator-Pattern/)
 7.  [Mediator
-    Pattern](/Post/36/Design-Patterns-for-Dummies.-The-Mediator-Pattern.aspx)
+    Pattern](/2009/02/09/Design-Patterns-for-Dummies.-The-Mediator-Pattern/)
 8.  [Observer
-    Pattern](/Post/37/Design-Patterns-for-Dummies.-The-Observer-Pattern.aspx)
+    Pattern](/2009/02/17/Design-Patterns-for-Dummies.-The-Observer-Pattern/)
 
 You can read about the Structural patterns
-[here](/Post/23/Structural-Design-Patterns.aspx). 
+[here](/2008/12/15/Structural-Design-Patterns/).
+
 You can read about the Creational patterns
-[here](/Post/29/Creational-Design-Patterns.aspx).
+[here](/2009/01/12/Creational-Design-Patterns/).
 
 **The Visitor**
 

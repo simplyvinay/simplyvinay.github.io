@@ -11,7 +11,7 @@ categories: [.NET]
 *UnitOfWork ActionFilter*
 
 In my previous
-[post](http://www.simplyvinay.com/Post/50/MPBlog-Implementation.-Part-4.aspx)
+[post](/2009/05/18/MPBlog-Implementation.-Part-4/)
 I had created the repository implementations along with unit of work.
 But how do we use this unit of work in our application. ASP.NET MVC has
 a concept of ActionFilters. These could be applied to an action or a

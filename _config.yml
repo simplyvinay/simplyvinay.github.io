@@ -1,16 +1,15 @@
-title: My Personal Blog
-subtitle: 
+title: dotNet Musings
+subtitle: ..because life musings are absurd
 author: Vinay
 avatar_url: /assets/img/avatar.jpg  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Contemplating life and the importance of .net web development in it, with some Vuejs, Reactjs and Graphql
+  to add to the absurdity of it all.
 #repository: haacked/haackbar
 
 # contact
 contact:
-  email: vinay@simplyvinay.com  # Comment out this line if you don't want to expose your email.
+#  email: email  # Comment out this line if you don't want to expose your email.
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links

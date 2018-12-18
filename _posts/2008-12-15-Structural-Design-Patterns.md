@@ -11,19 +11,19 @@ for now I have completed the structural patterns as described by the
 GOF. Below are the links to all the structural patterns.
 
 1.  [Decorator
-    Pattern](http://www.simplyvinay.com/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx)
+    Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy
-    Pattern](http://www.simplyvinay.com/Post/15/Design-Patterns-for-Dummies.-The-Proxy-Pattern.aspx)
+    Pattern](/2008/11/24/Design-Patterns-for-Dummies.-The-Proxy-Pattern/)
 3.  [Bridge
-    Pattern](http://www.simplyvinay.com/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx)
+    Pattern](/2008/11/27/Design-Patterns-for-Dummies.-The-Bridge-pattern/)
 4.  [Composite
-    Pattern](http://www.simplyvinay.com/Post/17/Design-Patterns-for-Dummies.-The-Composite-Pattern.aspx)
+    Pattern](/2008/12/01/Design-Patterns-for-Dummies.-The-Composite-Pattern/)
 5.  [Flyweight
-    Pattern](http://www.simplyvinay.com/Post/18/Design-Patterns-for-Dummies.-The-Flyweight-Pattern.aspx)
+    Pattern](/2008/12/04/Design-Patterns-for-Dummies.-The-Flyweight-Pattern/)
 6.  [Adapter
-    Pattern](http://www.simplyvinay.com/Post/19/Design-Patterns-for-Dummies.-The-Adapter-Pattern.aspx)
+    Pattern](/2008/12/07/Design-Patterns-for-Dummies.-The-Adapter-Pattern/)
 7.  [Façade
-    Pattern](http://www.simplyvinay.com/Post/21/Design-Patterns-for-Dummies.-The-Facade-Pattern.aspx)
+    Pattern](/2008/12/11/Design-Patterns-for-Dummies.-The-Facade-Pattern/)
 
 In the following posts to come, I will write about the Creational
 Patterns.

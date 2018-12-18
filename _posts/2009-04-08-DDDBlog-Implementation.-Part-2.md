@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 47
 categories: [DDD]
 ---
-In my previous post, we looked at setting up the project structure and
+In my previous [post](/2009/04/06/DDDBlog-Implementation.-Part-1/), we looked at setting up the project structure and
 the tools and libraries that we’ll need to build the application. In
 this post we’ll look at creating a few base classes.
 
@@ -14,7 +14,7 @@ this post we’ll look at creating a few base classes.
 
 Before we start of creating the domain objects, lets first create the
 base entity object. As discussed before, an
-[entity](http://www.simplyvinay.com/Post/43/Aspects-Of-DDD.-Part-I.aspx)
+[entity](/2009/03/23/Aspects-Of-DDD.-Part-I/)
 is something that has an identity. This would be our layer supertype
 because this class will be inherited by all our domain objects that
 needs to have an identity.
@@ -220,7 +220,7 @@ As you can see our Aggregate root base is just an interface that
 inherits from IEntity. This is done because a repository is ( should be
 ) provided only on the Aggregate root. You can read a bit on Aggregates
 and Repositories
-[here](http://www.simplyvinay.com/Post/44/Aspects-Of-DDD.-Part-II.aspx).
+[here](/2009/03/25/Aspects-Of-DDD.-Part-II/).
 
 Now that our base classes are ready, we can look at the domain objects
 of our sample application, which I will be talking about in the next

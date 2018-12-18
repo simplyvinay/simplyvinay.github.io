@@ -8,7 +8,7 @@ categories: [C#]
 ---
 This is the second of posts about the new features in C# 3.0. You can
 read the first post
-[here](/Post/6/Automatic-Properties-and-Object-Initializers.aspx). Well
+[here](/2008/07/01/Automatic-Properties-and-Object-Initializers/). Well
 this was long overdue, but anyway, here it is.
 
 **Type Inference**

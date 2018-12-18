@@ -8,13 +8,13 @@ categories: [Design Patterns]
 ---
 Continuing with the series on Design patterns, I will take up Behavioral
 Patterns from today. I have written about [Structural
-Patterns](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx)
+Patterns](/2008/12/15/Structural-Design-Patterns/)
 and [Creational
-Patterns](http://www.simplyvinay.com/Post/29/Creational-Design-Patterns.aspx)
+Patterns](/2009/01/12/Creational-Design-Patterns/)
 in my previous posts. You can get all the links for them
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx)
+[here](/2008/12/15/Structural-Design-Patterns/)
 and
-[here](http://www.simplyvinay.com/Post/29/Creational-Design-Patterns.aspx).
+[here](/2009/01/12/Creational-Design-Patterns/).
 
 **Behavioral Patterns**
 

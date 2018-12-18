@@ -11,10 +11,10 @@ discussing about the Factory Method pattern in this post. You can read
 about the other patterns from the following links.
 
 1.  [Prototype
-    Pattern](http://www.simplyvinay.com/Post/24/Design-Patterns-For-Dummies.-The-Prototype-Pattern.aspx)
+    Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 
 You can read about Structural Patterns from
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx).
+[here](/2008/12/15/Structural-Design-Patterns/).
 
 The Factory Method pattern deals with creation of objects in which the
 subclasses decide which class's object has to be created. Various

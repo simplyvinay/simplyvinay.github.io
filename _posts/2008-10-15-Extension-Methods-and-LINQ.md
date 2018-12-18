@@ -8,9 +8,9 @@ categories: [C#]
 ---
 This is the final post about the new features in C# 3.0. You can read
 the first two posts
-[here](http://www.simplyvinay.com/Post/6/Automatic-Properties-and-Object-Initializers.aspx)
+[here](/2008/07/01/Automatic-Properties-and-Object-Initializers/)
 and
-[here](http://www.simplyvinay.com/Post/8/Type-Inference,-Anonymous-types-and-Lambda-Expressions.aspx).
+[here](/2008/10/01/Type-Inference,-Anonymous-types-and-Lambda-Expressions/).
 In these posts I have just described the new features of C# 3.0 without
 going much into details. If time permits I will elaborate on each of
 these.

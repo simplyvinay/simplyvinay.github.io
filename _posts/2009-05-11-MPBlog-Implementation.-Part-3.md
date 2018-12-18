@@ -9,14 +9,14 @@ categories: [.NET]
 *Mapping The Classes And Session Source Configuration*
 
 As mentioned in my previous
-[post](http://www.simplyvinay.com/Post/48/A-Brief-Intermission.aspx),
+[post](/2009/04/15/A-Brief-Intermission/),
 this series will no longer be a talk about DDD as a blog app is too
 trivial to show ( learn ) the power of it. I will be using some of the
 patterns of DDD though. So I have changed the name of the app I am
 building. It will be called MyPersonalBlog ( MPBlog ) henceforth.
 
 The project structure has changed a bit from what I had shown
-[here](http://www.simplyvinay.com/Post/46/DDDBlog-Implementation.-Part-1.aspx).
+[here](/2009/04/06/DDDBlog-Implementation.-Part-1/).
 There is no longer separate layers for infrastructure and domain. I have
 clubbed these 2 layers into a single Core layer. The other layers are
 just the same.
@@ -30,7 +30,7 @@ models ) will inherit from. In a blog application, we’ll have posts,
 tags and comments. So lets create classes for each of these. I have
 created these classes as shown in the class diagram below.
 
-[![ClassDiagram](http://www.simplyvinay.com/images/blogimages/MPBlogImplementation.Part3_8497/ClassDiagram_thumb.png "ClassDiagram")](http://www.simplyvinay.com/images/blogimages/MPBlogImplementation.Part3_8497/ClassDiagram.png)
+[![ClassDiagram](/assets/img/2009-05-11/ClassDiagram.png "ClassDiagram")](/assets/img/2009-05-11/ClassDiagram.png)
 
 From the diagram you can see that there is a many-to-many relation
 between Tag and Post class..
@@ -83,7 +83,7 @@ the Id property which is mapped to the PostId column in our database.
 The Id in our case is the id that we had declared in the Entity base
 class ( I have renamed the Key property to Id ). If you recall from my
 previous
-[post](http://www.simplyvinay.com/Post/47/DDDBlog-Implementation.-Part-2.aspx),
+[post](/2009/04/08/DDDBlog-Implementation.-Part-2/),
 it had only the getter property. The value is assigned by NHibernate. We
 specify a many to many relation between posts and tags through an
 intermediate table PostToTags. We have also specified that a post has

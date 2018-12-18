@@ -12,57 +12,57 @@ writing till now. Its in the order that I have been posting.
 Structural Patterns
 
 1.  [Decorator
-    Pattern](http://www.simplyvinay.com/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx)
+    Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy
-    Pattern](http://www.simplyvinay.com/Post/15/Design-Patterns-for-Dummies.-The-Proxy-Pattern.aspx)
+    Pattern](/2008/11/24/Design-Patterns-for-Dummies.-The-Proxy-Pattern/)
 3.  [Bridge
-    Pattern](http://www.simplyvinay.com/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx)
+    Pattern](/2008/11/27/Design-Patterns-for-Dummies.-The-Bridge-pattern/)
 4.  [Composite
-    Pattern](http://www.simplyvinay.com/Post/17/Design-Patterns-for-Dummies.-The-Composite-Pattern.aspx)
+    Pattern](/2008/12/01/Design-Patterns-for-Dummies.-The-Composite-Pattern/)
 5.  [Flyweight
-    Pattern](http://www.simplyvinay.com/Post/18/Design-Patterns-for-Dummies.-The-Flyweight-Pattern.aspx)
+    Pattern](/2008/12/04/Design-Patterns-for-Dummies.-The-Flyweight-Pattern/)
 6.  [Adapter
-    Pattern](http://www.simplyvinay.com/Post/19/Design-Patterns-for-Dummies.-The-Adapter-Pattern.aspx)
+    Pattern](/2008/12/07/Design-Patterns-for-Dummies.-The-Adapter-Pattern/)
 7.  [Façade
-    Pattern](http://www.simplyvinay.com/Post/21/Design-Patterns-for-Dummies.-The-Facade-Pattern.aspx)
+    Pattern](/2008/12/11/Design-Patterns-for-Dummies.-The-Facade-Pattern/)
 
 Creational Patterns
 
 1.  [Prototype
-    Pattern](http://www.simplyvinay.com/Post/24/Design-Patterns-For-Dummies.-The-Prototype-Pattern.aspx)
+    Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 2.  [Factory Method
-    Pattern](http://www.simplyvinay.com/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx)
+    Pattern](/2008/12/18/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern/)
 3.  [Singleton
-    Pattern](http://www.simplyvinay.com/Post/26/Design-Patterns-for-Dummies.-The-Singleton-Pattern.aspx)
+    Pattern](/2008/12/22/Design-Patterns-for-Dummies.-The-Singleton-Pattern/)
 4.  [Abstract Factory
-    Pattern](http://www.simplyvinay.com/Post/27/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern.aspx)
+    Pattern](/2009/01/05/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern/)
 5.  [Builder
-    Pattern](http://www.simplyvinay.com/Post/28/Design-Patterns-for-Dummies.-The-Builder-Pattern.aspx)
+    Pattern](/2009/01/08/Design-Patterns-for-Dummies.-The-Builder-Pattern/)
 
 Behavioral Patterns
 
 1.  [Strategy
-    Pattern](http://www.simplyvinay.com/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx)
+    Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State
-    Pattern](http://www.simplyvinay.com/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx)
+    Pattern](/2009/01/15/Design-Patterns-for-Dummies.-The-State-Pattern/)
 3.  [Template Method
-    Pattern](http://www.simplyvinay.com/Post/32/Design-Patterns-for-Dummies.-The-Template-Method-Pattern.aspx)
+    Pattern](/2009/01/19/Design-Patterns-for-Dummies.-The-Template-Method-Pattern/)
 4.  [Chain of Responsibility
-    Pattern](http://www.simplyvinay.com/Post/33/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern.aspx)
+    Pattern](/2009/01/22/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern/)
 5.  [Command
-    Pattern](http://www.simplyvinay.com/Post/34/Design-Patterns-for-Dummies.-The-Command-Pattern.aspx)
+    Pattern](/2009/02/02/Design-Patterns-for-Dummies.-The-Command-Pattern/)
 6.  [Iterator
-    Pattern](http://www.simplyvinay.com/Post/35/Design-Patterns-for-Dummies.-The-Iterator-Pattern.aspx)
+    Pattern](/2009/02/05/Design-Patterns-for-Dummies.-The-Iterator-Pattern/)
 7.  [Mediator
-    Pattern](http://www.simplyvinay.com/Post/36/Design-Patterns-for-Dummies.-The-Mediator-Pattern.aspx)
+    Pattern](/2009/02/09/Design-Patterns-for-Dummies.-The-Mediator-Pattern/)
 8.  [Observer
-    Pattern](http://www.simplyvinay.com/Post/37/Design-Patterns-for-Dummies.-The-Observer-Pattern.aspx)
+    Pattern](/2009/02/17/Design-Patterns-for-Dummies.-The-Observer-Pattern/)
 9.  [Visitor
-    Pattern](http://www.simplyvinay.com/Post/38/Design-Patterns-for-Dummies.-The-Visitor-Pattern.aspx)
+    Pattern](/2009/02/24/Design-Patterns-for-Dummies.-The-Visitor-Pattern/)
 10. [Interpreter
-    Pattern](http://www.simplyvinay.com/Post/39/Design-Patterns-for-Dummies.-The-Interpreter-Pattern.aspx)
+    Pattern](/2009/03/03/Design-Patterns-for-Dummies.-The-Interpreter-Pattern/)
 11. [Memento
-    Pattern](http://www.simplyvinay.com/Post/40/Design-Patterns-for-Dummies.-The-Memento-Pattern.aspx)
+    Pattern](/2009/03/11/Design-Patterns-for-Dummies.-The-Memento-Pattern/)
 
 These writings doesn't dwell into the patterns deeply and are written
 just to give an idea of what they are ( for dummies remember ). The real

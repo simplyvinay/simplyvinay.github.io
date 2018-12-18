@@ -15,7 +15,7 @@ be calling the application DDDBlog.
 
 Lets create the project structure as shown below.
 
-[![solution](http://www.simplyvinay.com/images/blogimages/DDDBlogImplementation.Part1_F101/solution_thumb.png "solution")](http://www.simplyvinay.com/images/blogimages/DDDBlogImplementation.Part1_F101/solution.png)
+[![solution](/assets/img/2009-04-06/solution.png "solution")](/assets/img/2009-04-06/solution.png)
 
 *DDDBlog.Domain* : Domain layer is where the Plain-Old CLR Objects
 reside. These POCOs are entities that form the domain objects for our

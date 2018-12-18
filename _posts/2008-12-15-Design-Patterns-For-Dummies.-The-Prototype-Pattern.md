@@ -8,9 +8,9 @@ categories: [Design Patterns]
 ---
 Continuing with the series on Design patterns, I will take up Creational
 Patterns from today. I have written about [Structural
-Patterns](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx)
+Patterns](/2008/12/15/Structural-Design-Patterns/)
 in my previous posts. You can get all the links for them
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx).
+[here](/2008/12/15/Structural-Design-Patterns/).
 
 **Creational Patterns**
 

@@ -13,15 +13,15 @@ writing about the adapter pattern today.
 You can read about the other patterns from the following links
 
 1.  [Decorator
-    Pattern](/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx)
+    Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy
-    Pattern](/Post/15/Design-Patterns-for-Dummies.-The-Proxy-Pattern.aspx)
+    Pattern](/2008/11/24/Design-Patterns-for-Dummies.-The-Proxy-Pattern/)
 3.  [Bridge
-    Pattern](/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx)
+    Pattern](/2008/11/27/Design-Patterns-for-Dummies.-The-Bridge-pattern/)
 4.  [Composite
-    Pattern](/Post/17/Design-Patterns-for-Dummies.-The-Composite-Pattern.aspx)
+    Pattern](/2008/12/01/Design-Patterns-for-Dummies.-The-Composite-Pattern/)
 5.  [Flyweight
-    Pattern](/Post/18/Design-Patterns-for-Dummies.-The-Flyweight-Pattern.aspx)
+    Pattern](/2008/12/04/Design-Patterns-for-Dummies.-The-Flyweight-Pattern/)
 
 Adapter pattern deals with providing a way to use an already present
 interface that does not meet with the present requirements. We create an

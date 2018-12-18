@@ -8,9 +8,9 @@ categories: [General]
 ---
 I got a (few) comment by [Colin](http://colinjack.blogspot.com/) on my
 previous
-[post](http://www.simplyvinay.com/Post/46/DDDBlog-Implementation.-Part-1.aspx)
+[post](/2009/04/06/DDDBlog-Implementation.-Part-1/)
 on the
-[series](http://www.simplyvinay.com/Post/42/My-foray-into-DDD,-TDD,-MVC-and-NHibernate.aspx)
+[series](/2009/03/17/My-foray-into-DDD,-TDD,-MVC-and-NHibernate/)
 that I had started.
 
 He goes like this for me saying that I am the domain expert for the

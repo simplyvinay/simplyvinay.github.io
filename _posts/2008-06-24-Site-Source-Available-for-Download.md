@@ -7,7 +7,7 @@ disqus_identifier: 4
 categories: [MPS]
 ---
 The source code for this is site is available for download from
-[here](/Source.aspx).
+[here](/downloads/MPS.zip).
 
 Here is a list of features that i have implemented.
 

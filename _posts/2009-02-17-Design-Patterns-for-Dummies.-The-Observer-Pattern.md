@@ -12,25 +12,25 @@ Pattern. You can read about rest of the patterns from the following
 links
 
 1.  [Strategy
-    Pattern](http://www.simplyvinay.com/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx)
+    Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State
-    Pattern](http://www.simplyvinay.com/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx)
+    Pattern](/2009/01/15/Design-Patterns-for-Dummies.-The-State-Pattern/)
 3.  [Template Method
-    Pattern](http://www.simplyvinay.com/Post/32/Design-Patterns-for-Dummies.-The-Template-Method-Pattern.aspx)
+    Pattern](/2009/01/19/Design-Patterns-for-Dummies.-The-Template-Method-Pattern/)
 4.  [Chain of Responsibility
-    Pattern](http://www.simplyvinay.com/Post/33/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern.aspx)
+    Pattern](/2009/01/22/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern/)
 5.  [Command
-    Pattern](http://www.simplyvinay.com/Post/34/Design-Patterns-for-Dummies.-The-Command-Pattern.aspx)
+    Pattern](/2009/02/02/Design-Patterns-for-Dummies.-The-Command-Pattern/)
 6.  [Iterator
-    Pattern](http://www.simplyvinay.com/Post/35/Design-Patterns-for-Dummies.-The-Iterator-Pattern.aspx)
+    Pattern](/2009/02/05/Design-Patterns-for-Dummies.-The-Iterator-Pattern/)
 7.  [Mediator
-    Pattern](http://www.simplyvinay.com/Post/36/Design-Patterns-for-Dummies.-The-Mediator-Pattern.aspx)
+    Pattern](/2009/02/09/Design-Patterns-for-Dummies.-The-Mediator-Pattern/)
 
-You can read about the Structural patterns from
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx).
+You can read about the Structural patterns
+[here](/2008/12/15/Structural-Design-Patterns/).
 
-You can read about the Creational patterns from
-[here](http://www.simplyvinay.com/Post/29/Creational-Design-Patterns.aspx).
+You can read about the Creational patterns
+[here](/2009/01/12/Creational-Design-Patterns/).
 
 The Observer pattern deals with providing a relation between objects
 such that when one objects changes its state, then all the other objects

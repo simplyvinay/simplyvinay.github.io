@@ -11,16 +11,16 @@ discussing about the Builder pattern in this post. You can read about
 the other patterns from the following links.
 
 1.  [Prototype
-    Pattern](http://www.simplyvinay.com/Post/24/Design-Patterns-For-Dummies.-The-Prototype-Pattern.aspx)
+    Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 2.  [Factory Method
-    Pattern](http://www.simplyvinay.com/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx)
+    Pattern](/2008/12/18/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern/)
 3.  [Singleton
-    Pattern](http://www.simplyvinay.com/Post/26/Design-Patterns-for-Dummies.-The-Singleton-Pattern.aspx)
+    Pattern](/2008/12/22/Design-Patterns-for-Dummies.-The-Singleton-Pattern/)
 4.  [Abstract Factory
-    Pattern](http://www.simplyvinay.com/Post/27/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern.aspx)
+    Pattern](/2009/01/05/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern/)
 
 You can read about Structural Patterns from
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx).
+[here](/2008/12/15/Structural-Design-Patterns/).
 
 The Builder pattern deals with separation of the specification of a
 complex object from its actual construction. This construction process

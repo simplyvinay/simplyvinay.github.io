@@ -9,8 +9,9 @@ categories: [Design Patterns]
 This is the second post in a series of post on Design patterns.
 Presently we are going through the structural patterns. In my previous
 post I had discussed about the [Decorator
-Pattern](http://www.simplyvinay.com/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx).
+    Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/).
 I will be writing about the proxy pattern today.
+
 
 Proxy patterns is all about creating small objects which in turn are
 used in creating and accessing more complex objects.

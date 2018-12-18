@@ -18,7 +18,7 @@ roles from the forum I guess ( I don't remember ) , and added a profile
 provider to it. Its not perfect and you might find a lot of bugs.
 
 You can download the source for it from
-[here](/GetFile.ashx?file=VistaDBProviders.zip). It has the full source
+[here](/downloads/VistaDBProviders.zip). It has the full source
 code for the providers and a sample website.
 
 Any sort of feedback is appreciated.

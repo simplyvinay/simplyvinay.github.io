@@ -11,13 +11,13 @@ through Behavioral Patterns. Today I will write about the State Pattern.
 You can read about the other patterns from the following links
 
 1.  [Strategy
-    Pattern](http://www.simplyvinay.com/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx)
+    Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 
-You can read about Structural Patterns from
-[here](http://www.simplyvinay.com/Post/23/Structural-Design-Patterns.aspx).
+You can read about the Structural patterns
+[here](/2008/12/15/Structural-Design-Patterns/).
 
-You can read about Creational Patterns from
-[here](http://www.simplyvinay.com/Post/29/Creational-Design-Patterns.aspx).
+You can read about the Creational patterns
+[here](/2009/01/12/Creational-Design-Patterns/).
 
 State pattern in essence is a dynamic version of the strategy pattern,
 meaning, when the sate inside an object is changed, it could change its

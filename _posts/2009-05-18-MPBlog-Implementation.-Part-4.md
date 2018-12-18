@@ -8,7 +8,7 @@ categories: [.NET]
 ---
 *NHibernate Repository and Unit Of Work*
 
-In my previous [post](/Post/49/MPBlog-Implementation.-Part-3.aspx) we
+In my previous [post](/2009/05/11/MPBlog-Implementation.-Part-3/) we
 looked at the domain model and the class maps associated with it. In
 this post lets look at the Repository and Unit Of Work implementations.
 

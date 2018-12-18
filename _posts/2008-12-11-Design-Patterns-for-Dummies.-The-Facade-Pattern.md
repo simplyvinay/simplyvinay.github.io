@@ -14,17 +14,17 @@ structural pattern.
 You can read about the other patterns from the following links
 
 1.  [Decorator
-    Pattern](http://www.simplyvinay.com/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx)
+    Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy
-    Pattern](http://www.simplyvinay.com/Post/15/Design-Patterns-for-Dummies.-The-Proxy-Pattern.aspx)
+    Pattern](/2008/11/24/Design-Patterns-for-Dummies.-The-Proxy-Pattern/)
 3.  [Bridge
-    Pattern](http://www.simplyvinay.com/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx)
+    Pattern](/2008/11/27/Design-Patterns-for-Dummies.-The-Bridge-pattern/)
 4.  [Composite
-    Pattern](http://www.simplyvinay.com/Post/17/Design-Patterns-for-Dummies.-The-Composite-Pattern.aspx)
+    Pattern](/2008/12/01/Design-Patterns-for-Dummies.-The-Composite-Pattern/)
 5.  [Flyweight
-    Pattern](http://www.simplyvinay.com/Post/18/Design-Patterns-for-Dummies.-The-Flyweight-Pattern.aspx)
+    Pattern](/2008/12/04/Design-Patterns-for-Dummies.-The-Flyweight-Pattern/)
 6.  [Adapter
-    Pattern](http://www.simplyvinay.com/Post/19/Design-Patterns-for-Dummies.-The-Adapter-Pattern.aspx)
+    Pattern](/2008/12/07/Design-Patterns-for-Dummies.-The-Adapter-Pattern/)
 
 Façade pattern deals with encapsulating a subsystem which means
 providing a different high level view of subsystem whose details are

@@ -11,18 +11,18 @@ Patterns as described by the GOF. Below are the links for all the
 Creational patterns.
 
 1.  [Prototype
-    Pattern](/Post/24/Design-Patterns-For-Dummies.-The-Prototype-Pattern.aspx)
+    Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 2.  [Factory Method
-    Pattern](/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx)
+    Pattern](/2008/12/18/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern/)
 3.  [Singleton
-    Pattern](/Post/26/Design-Patterns-for-Dummies.-The-Singleton-Pattern.aspx)
+    Pattern](/2008/12/22/Design-Patterns-for-Dummies.-The-Singleton-Pattern/)
 4.  [Abstract Factory
-    Pattern](/Post/27/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern.aspx)
+    Pattern](/2009/01/05/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern/)
 5.  [Builder
-    Pattern](/Post/28/Design-Patterns-for-Dummies.-The-Builder-Pattern.aspx)
+    Pattern](/2009/01/08/Design-Patterns-for-Dummies.-The-Builder-Pattern/)
 
 You can read about Structural Patterns from
-[here](/Post/23/Structural-Design-Patterns.aspx).
+[here](/2008/12/15/Structural-Design-Patterns/).
 
 In the following posts to come, I will write about the Behavioral
 Patterns.

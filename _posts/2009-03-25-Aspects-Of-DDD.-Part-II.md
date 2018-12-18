@@ -7,7 +7,7 @@ disqus_identifier: 44
 categories: [DDD]
 ---
 This is a continuation post. You can read the first part
-[here](http://www.simplyvinay.com/Post/43/Aspects-Of-DDD.-Part-I.aspx).
+[here](/2009/03/23/Aspects-Of-DDD.-Part-I/).
 
 *Aggregates and Aggregate Root*
 
@@ -40,9 +40,9 @@ creating the the associated aggregates which might leave the system in a
 unstable state.
 
 You can read about the factory pattern from my earlier posts
-[here](http://www.simplyvinay.com/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx)
+[here](/2008/12/18/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern/)
 and
-[here](http://www.simplyvinay.com/Post/27/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern.aspx).
+[here](/2009/01/05/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern/).
 
 *Repositories*
 
