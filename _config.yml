@@ -101,3 +101,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-sitemap
