@@ -5,6 +5,7 @@
   border-top: 1px solid $grey-color-light;
   margin-left: $sidebar-width;
   padding: $spacing-unit 0;
+  background-color: $my-dark-colour;
 
   @include media-query($on-mobile) {
     margin-left: auto;
@@ -22,8 +23,8 @@
   @extend %clearfix;
   @include relative-font-size(.9375);
   @include relative-font-weight(.875);
-  color: $grey-color-dark;
   margin-left: -$spacing-unit / 2;
+  color: $my-text-colour
 }
 
 .footer-col {
