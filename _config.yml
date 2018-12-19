@@ -16,14 +16,6 @@ contact:
 twitter_username: simplyvinay
 github_username:  simplyvinay
 rss: rss
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-#linkedin_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
 
 # 
 # Subscribe Feed
@@ -33,9 +25,6 @@ rss: rss
 # feed:
 #   path: /atom.xml
 
-# If you use a feed publisher such as Feedburner, uncomment the next line
-# subscribe_rss: https://your-feedburner-url/
-
 # Homepage
 show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
 
@@ -44,7 +33,6 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 comments:
   enabled: true
   show_count: true
-#  receiver: https://.../  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
   disqus_shortname: simplyvinay
 
 emptyArray: [] # Leave this here.
@@ -53,6 +41,9 @@ emptyArray: [] # Leave this here.
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 haacked-theme:
   date_format: "%-d %b %Y"
+
+# Google Analytics
+google_analytics: UA-4808770-2
 
 #
 # Jekyll Settings
