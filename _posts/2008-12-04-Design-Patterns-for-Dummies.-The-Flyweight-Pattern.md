@@ -5,6 +5,7 @@ date: 2008-12-04
 comments: true
 disqus_identifier: 18
 categories: [Design Patterns]
+redirect_from: "/Post/18/Design-Patterns-for-Dummies.-The-Flyweight-Pattern.aspx/"
 ---
 This is the continuing post in a series of post on Design patterns.
 Presently we are going through the structural patterns. I will be

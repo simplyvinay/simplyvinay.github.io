@@ -5,6 +5,7 @@ date: 2009-04-08
 comments: true
 disqus_identifier: 47
 categories: [DDD]
+redirect_from: "/Post/47/DDDBlog-Implementation.-Part-2.aspx/"
 ---
 In my previous [post](/2009/04/06/DDDBlog-Implementation.-Part-1/), we looked at setting up the project structure and
 the tools and libraries that we’ll need to build the application. In

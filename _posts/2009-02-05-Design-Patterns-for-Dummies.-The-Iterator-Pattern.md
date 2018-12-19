@@ -5,6 +5,7 @@ date: 2009-02-05
 comments: true
 disqus_identifier: 35
 categories: [Design Patterns]
+redirect_from: "/Post/35/Design-Patterns-for-Dummies.-The-Iterator-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the Iterator

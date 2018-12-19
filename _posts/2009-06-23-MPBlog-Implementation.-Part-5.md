@@ -5,7 +5,9 @@ date: 2009-06-23
 comments: true
 disqus_identifier: 51
 categories: [.NET]
+redirect_from: "/Post/51/MPBlog-Implementation.-Part-5.aspx/"
 ---
+
 *Setting up StructureMap and The Unit Of Work ActionFilter*
 
 *UnitOfWork ActionFilter*

@@ -5,6 +5,7 @@ date: 2008-12-07
 comments: true
 disqus_identifier: 19
 categories: [Design Patterns]
+redirect_from: "/Post/19/Design-Patterns-for-Dummies.-The-Adapter-Pattern.aspx/"
 ---
 This is the continuing post in a series of post on Design patterns.
 Presently we are going through the structural patterns. I will be

@@ -3,8 +3,8 @@ layout: post
 title: "UrlRewriting Woes"
 date: 2008-06-17
 comments: true
-disqus_identifier: 1
 categories: [MPS]
+redirect_from: "/Post/1/UrlRewriting-Woes.aspx/"
 ---
 After spending a very long time to build this site, i finally put it in
 production. The prime reason for the delay was hosting which i was not

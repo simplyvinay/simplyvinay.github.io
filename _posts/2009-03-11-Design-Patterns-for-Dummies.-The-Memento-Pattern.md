@@ -5,6 +5,7 @@ date: 2009-03-11
 comments: true
 disqus_identifier: 40
 categories: [Design Patterns]
+redirect_from: "/Post/40/Design-Patterns-for-Dummies.-The-Memento-Pattern.aspx/"
 ---
 I have been writing about the GOF design patterns for quite some time
 now, and, this would be the last of the series. I will be writing about

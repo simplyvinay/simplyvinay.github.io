@@ -5,6 +5,7 @@ date: 2008-06-25
 comments: true
 disqus_identifier: 5
 categories: [MPS]
+redirect_from: "/Post/5/Source-Code-made-Open-Source.aspx/"
 ---
 I am now sharing the source code to this site under the Creative Commons
 License Distribution.

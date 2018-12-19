@@ -5,6 +5,7 @@ date: 2008-07-01
 comments: true
 disqus_identifier: 6
 categories: [C#]
+redirect_from: "/Post/6/Automatic-Properties-and-Object-Initializers.aspx/"
 ---
 **Automatic Properties**
 

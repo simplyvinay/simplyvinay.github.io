@@ -5,6 +5,7 @@ date: 2008-11-24
 comments: true
 disqus_identifier: 15
 categories: [Design Patterns]
+redirect_from: "/Post/15/Design-Patterns-for-Dummies.-The-Proxy-Pattern.aspx/"
 ---
 This is the second post in a series of post on Design patterns.
 Presently we are going through the structural patterns. In my previous

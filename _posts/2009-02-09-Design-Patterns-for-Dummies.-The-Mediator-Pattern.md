@@ -5,6 +5,7 @@ date: 2009-02-09
 comments: true
 disqus_identifier: 36
 categories: [Design Patterns]
+redirect_from: "/Post/36/Design-Patterns-for-Dummies.-The-Mediator-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the Mediator

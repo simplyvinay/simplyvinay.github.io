@@ -5,6 +5,7 @@ date: 2009-01-12
 comments: true
 disqus_identifier: 29
 categories: [Design Patterns]
+redirect_from: "/Post/29/Creational-Design-Patterns.aspx/"
 ---
 In my last five posts, I have written about the Creational Design
 Patterns as described by the GOF. Below are the links for all the

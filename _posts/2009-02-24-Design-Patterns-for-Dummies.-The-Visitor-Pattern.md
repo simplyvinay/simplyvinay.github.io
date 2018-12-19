@@ -5,6 +5,7 @@ date: 2009-02-24
 comments: true
 disqus_identifier: 38
 categories: [Design Patterns]
+redirect_from: "/Post/38/Design-Patterns-for-Dummies.-The-Visitor-Pattern.aspx/"
 ---
 Following on the series of posts on design patterns I will be talking
 about the Visitor Pattern today. Visitor is behavioral pattern. You can

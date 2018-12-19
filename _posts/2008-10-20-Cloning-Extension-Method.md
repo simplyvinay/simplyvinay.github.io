@@ -5,6 +5,7 @@ date: 2008-10-20
 comments: true
 disqus_identifier: 11
 categories: [C#]
+redirect_from: "/Post/11/Cloning-Extension-Method.aspx/"
 ---
 As you know cloning creates a replica of the instance of a type. There
 are basically 2 ways of cloning. *Shallow Copy*which means the original

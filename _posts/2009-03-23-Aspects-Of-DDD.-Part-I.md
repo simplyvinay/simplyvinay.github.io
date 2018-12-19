@@ -5,6 +5,7 @@ date: 2009-03-23
 comments: true
 disqus_identifier: 43
 categories: [DDD]
+redirect_from: "/Post/43/Aspects-Of-DDD.-Part-I.aspx/"
 ---
 *What is DDD?*
 

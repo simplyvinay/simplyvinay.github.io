@@ -5,6 +5,7 @@ date: 2009-03-17
 comments: true
 disqus_identifier: 42
 categories: [DDD]
+redirect_from: "/Post/42/My-foray-into-DDD,-TDD,-MVC-and-NHibernate.aspx/"
 ---
 If you are closely following the things that are happening around the
 .NET development arena, there is a lot of interest in DDD ( Domain

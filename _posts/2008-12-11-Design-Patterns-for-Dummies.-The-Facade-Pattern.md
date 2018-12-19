@@ -5,6 +5,7 @@ date: 2008-12-11
 comments: true
 disqus_identifier: 21
 categories: [Design Patterns]
+redirect_from: "/Post/21/Design-Patterns-for-Dummies.-The-Facade-Pattern.aspx/"
 ---
 This is the continuing post in a series of post on Design patterns.
 Presently we are going through the structural patterns. I will be

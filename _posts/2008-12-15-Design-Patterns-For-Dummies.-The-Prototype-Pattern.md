@@ -5,6 +5,7 @@ date: 2008-12-15
 comments: true
 disqus_identifier: 24
 categories: [Design Patterns]
+redirect_from: "/Post/24/Design-Patterns-For-Dummies.-The-Prototype-Pattern.aspx/"
 ---
 Continuing with the series on Design patterns, I will take up Creational
 Patterns from today. I have written about [Structural

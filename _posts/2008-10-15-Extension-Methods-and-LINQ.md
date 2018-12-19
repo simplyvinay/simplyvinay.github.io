@@ -5,6 +5,7 @@ date: 2008-10-15
 comments: true
 disqus_identifier: 10
 categories: [C#]
+redirect_from: "/Post/10/Extension-Methods-and-LINQ.aspx/"
 ---
 This is the final post about the new features in C# 3.0. You can read
 the first two posts

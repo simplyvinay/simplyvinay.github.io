@@ -5,6 +5,7 @@ date: 2008-09-30
 comments: true
 disqus_identifier: 7
 categories: [VistaDB]
+redirect_from: "/Post/7/VistaDB-Providers.aspx/"
 ---
 Its been a long time since I have made any posts on this blog. I am very
 busy these days and its been very hard to find time. To continue with

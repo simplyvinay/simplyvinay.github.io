@@ -5,6 +5,7 @@ date: 2008-12-18
 comments: true
 disqus_identifier: 25
 categories: [Design Patterns]
+redirect_from: "/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx/"
 ---
 In continuation of my posts on Creational design patterns, I will be
 discussing about the Factory Method pattern in this post. You can read

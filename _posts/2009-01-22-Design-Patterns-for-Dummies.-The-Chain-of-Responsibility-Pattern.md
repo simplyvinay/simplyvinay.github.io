@@ -5,6 +5,7 @@ date: 2009-01-22
 comments: true
 disqus_identifier: 33
 categories: [Design Patterns]
+redirect_from: "/Post/33/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, in which presently I
 going through Behavioral Patterns, today I will write about the Chain of

@@ -5,6 +5,7 @@ date: 2008-12-15
 comments: true
 disqus_identifier: 23
 categories: [C#]
+redirect_from: "/Post/23/Structural-Design-Patterns.aspx/"
 ---
 In the previous few posts I have been writing about design patterns and
 for now I have completed the structural patterns as described by the

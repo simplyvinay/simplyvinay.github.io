@@ -5,6 +5,7 @@ date: 2008-06-23
 comments: true
 disqus_identifier: 3
 categories: [.NET]
+redirect_from: "/Post/3/Lazy-Loading-of-Objects.aspx/"
 ---
 Lazy loading of objects essentially means that the data is loaded only
 when requested and not when the object instance is created.

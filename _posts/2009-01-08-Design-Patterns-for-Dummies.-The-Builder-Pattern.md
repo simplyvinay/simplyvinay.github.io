@@ -5,6 +5,7 @@ date: 2009-01-08
 comments: true
 disqus_identifier: 28
 categories: [Design Patterns]
+redirect_from: "/Post/28/Design-Patterns-for-Dummies.-The-Builder-Pattern.aspx/"
 ---
 In continuation of my series on Creational design patterns, I will be
 discussing about the Builder pattern in this post. You can read about

@@ -5,6 +5,7 @@ date: 2008-06-19
 comments: true
 disqus_identifier: 2
 categories: [Castle Project]
+redirect_from: "/Post/2/Logging-using-Interceptors-in-Windsor-Container.aspx/"
 ---
 The Windsor container gives you a provision of adding behavior to
 components without having to change the components implementation. For

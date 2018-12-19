@@ -5,6 +5,7 @@ date: 2009-02-17
 comments: true
 disqus_identifier: 37
 categories: [Design Patterns]
+redirect_from: "/Post/37/Design-Patterns-for-Dummies.-The-Observer-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the Observer

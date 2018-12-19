@@ -5,6 +5,7 @@ date: 2009-04-15
 comments: true
 disqus_identifier: 48
 categories: [General]
+redirect_from: "/Post/48/A-Brief-Intermission.aspx/"
 ---
 I got a (few) comment by [Colin](http://colinjack.blogspot.com/) on my
 previous

@@ -5,6 +5,7 @@ date: 2009-01-15
 comments: true
 disqus_identifier: 31
 categories: [Design Patterns]
+redirect_from: "/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the State Pattern.

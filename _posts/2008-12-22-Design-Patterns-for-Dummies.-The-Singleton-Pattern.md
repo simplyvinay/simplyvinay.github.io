@@ -5,6 +5,7 @@ date: 2008-12-22
 comments: true
 disqus_identifier: 26
 categories: [Design Patterns]
+redirect_from: "/Post/26/Design-Patterns-for-Dummies.-The-Singleton-Pattern.aspx/"
 ---
 In continuation of my posts on Creational design patterns, I will be
 discussing about the Singleton pattern in this post. You can read about

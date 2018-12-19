@@ -5,6 +5,7 @@ date: 2009-01-12
 comments: true
 disqus_identifier: 30
 categories: [Design Patterns]
+redirect_from: "/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx/"
 ---
 Continuing with the series on Design patterns, I will take up Behavioral
 Patterns from today. I have written about [Structural

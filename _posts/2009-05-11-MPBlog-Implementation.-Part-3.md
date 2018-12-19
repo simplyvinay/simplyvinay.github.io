@@ -5,6 +5,7 @@ date: 2009-05-11
 comments: true
 disqus_identifier: 49
 categories: [.NET]
+redirect_from: "/Post/49/MPBlog-Implementation.-Part-3.aspx/"
 ---
 *Mapping The Classes And Session Source Configuration*
 

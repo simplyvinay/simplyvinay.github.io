@@ -5,6 +5,7 @@ date: 2008-10-01
 comments: true
 disqus_identifier: 8
 categories: [C#]
+redirect_from: "/Post/8/Type-Inference,-Anonymous-types-and-Lambda-Expressions.aspx/"
 ---
 This is the second of posts about the new features in C# 3.0. You can
 read the first post

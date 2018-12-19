@@ -5,6 +5,7 @@ date: 2009-03-25
 comments: true
 disqus_identifier: 44
 categories: [DDD]
+redirect_from: "/Post/44/Aspects-Of-DDD.-Part-II.aspx/"
 ---
 This is a continuation post. You can read the first part
 [here](/2009/03/23/Aspects-Of-DDD.-Part-I/).

@@ -5,6 +5,7 @@ date: 2009-03-16
 comments: true
 disqus_identifier: 41
 categories: [Design Patterns]
+redirect_from: "/Post/41/Design-Patterns-for-Dummies.-All-Links.aspx/"
 ---
 Here are the links to all of the 23 GOF design patterns that I have been
 writing till now. Its in the order that I have been posting.

@@ -5,6 +5,7 @@ date: 2009-02-02
 comments: true
 disqus_identifier: 34
 categories: [Design Patterns]
+redirect_from: "/Post/34/Design-Patterns-for-Dummies.-The-Command-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the Command

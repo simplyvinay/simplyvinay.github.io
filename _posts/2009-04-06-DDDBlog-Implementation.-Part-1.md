@@ -5,6 +5,7 @@ date: 2009-04-06
 comments: true
 disqus_identifier: 46
 categories: [DDD]
+redirect_from: "/Post/46/DDDBlog-Implementation.-Part-1.aspx/"
 ---
 In my pervious posts, I wrote about the aspects of TDD and DDD a bit,
 and following up on the series, I will start building the sample
