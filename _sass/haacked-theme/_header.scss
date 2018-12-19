@@ -89,7 +89,7 @@
 
 .site-subtitle {
   @include relative-font-size(3);
-  color: $my-text-colour;
+  color: darken($grey-color, 15%);;
   font-size: 18px;
   font-style: italic;
   white-space: nowrap;
