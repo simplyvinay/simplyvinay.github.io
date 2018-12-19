@@ -42,10 +42,10 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 # Comments
 # To enable comments, set the `enabled` field to true and supply either a Disqus short name or a Jekyll comments receiver
 comments:
-  enabled: false
-  show_count: false
+  enabled: true
+  show_count: true
 #  receiver: https://.../  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
-#  disqus_shortname: YOUR_DISQUS_SHORTNAME
+  disqus_shortname: simplyvinay
 
 emptyArray: [] # Leave this here.
 
@@ -91,7 +91,6 @@ defaults:
 markdown: kramdown
 kramdown:
   hard_wrap: false
-theme: haacked-theme
 exclude:
   - Gemfile
   - Gemfile.lock
