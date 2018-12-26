@@ -109,7 +109,6 @@
 
   h3 {
     @include relative-font-size(1.525);
-    color: lighten($text-color, 20%);
     margin-bottom: $spacing-unit / 4;
   }
 
