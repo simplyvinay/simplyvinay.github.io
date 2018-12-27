@@ -49,8 +49,8 @@ google_analytics: UA-4808770-2
 # Jekyll Settings
 #
 permalink: /:year/:month/:day/:title/
-paginate: 5 # number of posts per page
-page_group_size: 5 # number of pages to group by in the pagination.
+paginate: 7 # number of posts per page
+page_group_size: 7 # number of pages to group by in the pagination.
 paginate_path: "/page:num/"
 category_dir: categories
 
