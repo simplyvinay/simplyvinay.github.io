@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Builder Pattern"
 date: 2009-01-08
 comments: true
 disqus_identifier: 28
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/28/Design-Patterns-for-Dummies.-The-Builder-Pattern.aspx/"
 ---
 In continuation of my series on Creational design patterns, I will be

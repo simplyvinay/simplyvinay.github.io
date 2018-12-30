@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Visitor Pattern"
 date: 2009-02-24
 comments: true
 disqus_identifier: 38
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/38/Design-Patterns-for-Dummies.-The-Visitor-Pattern.aspx/"
 ---
 Following on the series of posts on design patterns I will be talking

@@ -4,6 +4,29 @@ permalink: /categories/
 include_nav: true
 ---
 
+<!-- https://github.com/mmistakes -->
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
+
+<a id="page-title"></a>
+<ul class="taxonomy__index">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+            <a href="#{{category[0]|slugize}}">
+          
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
 
 <div id="archives">
 {% assign sortedCategories = site.categories | sort %}
@@ -13,9 +36,8 @@ include_nav: true
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h4 class="category-head">{{ category_name }}</h4>
     <a name="{{ category_name | slugize }}"></a>
-    
+    <h4 class="category-head">{{ category_name }}</h4>
       {% for post in site.categories[category_name] %}
       <div class="archives">
           <h3 class="title"><a href="{{ post.url }}">{{post.title}}</a></h3>
@@ -26,6 +48,9 @@ include_nav: true
           </div>
       </div>
       {% endfor %}
+    <div style="border-bottom: 1px solid;">
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    </div>
   </div>
 {% endfor %}
 </div>

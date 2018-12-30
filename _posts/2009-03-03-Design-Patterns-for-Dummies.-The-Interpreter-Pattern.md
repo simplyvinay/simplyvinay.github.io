@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Interpreter Pattern"
 date: 2009-03-03
 comments: true
 disqus_identifier: 39
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/39/Design-Patterns-for-Dummies.-The-Interpreter-Pattern.aspx/"
 ---
 Following up on the series on design patterns, I will be writing about

@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Command Pattern"
 date: 2009-02-02
 comments: true
 disqus_identifier: 34
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/34/Design-Patterns-for-Dummies.-The-Command-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

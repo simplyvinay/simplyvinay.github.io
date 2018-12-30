@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Composite Pattern"
 date: 2008-12-01
 comments: true
 disqus_identifier: 17
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/17/Design-Patterns-for-Dummies.-The-Composite-Pattern.aspx/"
 ---
 This is the continuing post in a series of post on Design patterns.

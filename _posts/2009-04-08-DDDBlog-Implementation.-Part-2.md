@@ -4,7 +4,7 @@ title: "DDDBlog Implementation. Part 2"
 date: 2009-04-08
 comments: true
 disqus_identifier: 47
-categories: [DDD]
+categories: [DDD,.NET]
 redirect_from: "/Post/47/DDDBlog-Implementation.-Part-2.aspx/"
 ---
 In my previous [post](/2009/04/06/DDDBlog-Implementation.-Part-1/), we looked at setting up the project structure and

@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Strategy Pattern"
 date: 2009-01-12
 comments: true
 disqus_identifier: 30
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/30/Design-Patterns-for-Dummies.-The-Strategy-Pattern.aspx/"
 ---
 Continuing with the series on Design patterns, I will take up Behavioral

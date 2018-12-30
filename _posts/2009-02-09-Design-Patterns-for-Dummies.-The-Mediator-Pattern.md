@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Mediator Pattern"
 date: 2009-02-09
 comments: true
 disqus_identifier: 36
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/36/Design-Patterns-for-Dummies.-The-Mediator-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

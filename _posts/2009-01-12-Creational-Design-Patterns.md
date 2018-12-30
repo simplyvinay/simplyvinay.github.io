@@ -4,7 +4,7 @@ title: "Creational Design Patterns"
 date: 2009-01-12
 comments: true
 disqus_identifier: 29
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/29/Creational-Design-Patterns.aspx/"
 ---
 In my last five posts, I have written about the Creational Design

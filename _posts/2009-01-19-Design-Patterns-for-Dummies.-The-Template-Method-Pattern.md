@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Template Method Pattern"
 date: 2009-01-19
 comments: true
 disqus_identifier: 32
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/32/Design-Patterns-for-Dummies.-The-Template-Method-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

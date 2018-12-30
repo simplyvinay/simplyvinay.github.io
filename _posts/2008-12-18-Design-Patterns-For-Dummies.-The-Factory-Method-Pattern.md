@@ -4,7 +4,7 @@ title: "Design Patterns For Dummies. The Factory Method Pattern"
 date: 2008-12-18
 comments: true
 disqus_identifier: 25
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern.aspx/"
 ---
 In continuation of my posts on Creational design patterns, I will be

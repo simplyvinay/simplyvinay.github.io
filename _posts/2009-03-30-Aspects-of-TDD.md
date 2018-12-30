@@ -4,7 +4,7 @@ title: "Aspects of TDD"
 date: 2009-03-30
 comments: true
 disqus_identifier: 45
-categories: [DDD]
+categories: [DDD,TDD]
 redirect_from: "/Post/45/Aspects-of-TDD.aspx/"
 ---
 This post was supposed to be about the layering in my sample project,

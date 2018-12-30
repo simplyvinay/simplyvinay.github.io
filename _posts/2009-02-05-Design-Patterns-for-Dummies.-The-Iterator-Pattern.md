@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Iterator Pattern"
 date: 2009-02-05
 comments: true
 disqus_identifier: 35
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/35/Design-Patterns-for-Dummies.-The-Iterator-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The State Pattern"
 date: 2009-01-15
 comments: true
 disqus_identifier: 31
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

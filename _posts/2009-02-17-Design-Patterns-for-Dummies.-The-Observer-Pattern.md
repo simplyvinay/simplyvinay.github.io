@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Observer Pattern"
 date: 2009-02-17
 comments: true
 disqus_identifier: 37
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/37/Design-Patterns-for-Dummies.-The-Observer-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, I am currently going

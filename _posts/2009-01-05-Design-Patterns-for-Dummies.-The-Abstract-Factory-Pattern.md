@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Abstract Factory Pattern"
 date: 2009-01-05
 comments: true
 disqus_identifier: 27
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/27/Design-Patterns-for-Dummies.-The-Abstract-Factory-Pattern.aspx/"
 ---
 After a brief hiatus for the holidays, I will continue my series on

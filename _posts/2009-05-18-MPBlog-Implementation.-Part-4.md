@@ -4,7 +4,7 @@ title: "MPBlog Implementation. Part 4"
 date: 2009-05-18
 comments: true
 disqus_identifier: 50
-categories: [.NET]
+categories: [C#,.NET]
 redirect_from: "/Post/50/MPBlog-Implementation.-Part-4.aspx/"
 ---
 *NHibernate Repository and Unit Of Work*

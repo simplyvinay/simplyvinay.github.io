@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Bridge pattern"
 date: 2008-11-27
 comments: true
 disqus_identifier: 16
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx/"
 ---
 This is the third post in a series of post on Design patterns. Presently

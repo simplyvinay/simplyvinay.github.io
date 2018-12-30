@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Chain of Responsibility Pattern"
 date: 2009-01-22
 comments: true
 disqus_identifier: 33
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET]
 redirect_from: "/Post/33/Design-Patterns-for-Dummies.-The-Chain-of-Responsibility-Pattern.aspx/"
 ---
 In continuation with the series on design pattern, in which presently I

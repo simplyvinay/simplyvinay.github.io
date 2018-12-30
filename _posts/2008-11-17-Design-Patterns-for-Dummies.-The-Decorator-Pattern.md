@@ -4,7 +4,7 @@ title: "Design Patterns for Dummies. The Decorator Pattern"
 date: 2008-11-17
 comments: true
 disqus_identifier: 14
-categories: [Design Patterns]
+categories: [Design Patterns,C#,.NET] 
 redirect_from: "/Post/14/Design-Patterns-for-Dummies.-The-Decorator-Pattern.aspx/"
 ---
 Yes there are a lot of posting on design patterns, and you might ask why
