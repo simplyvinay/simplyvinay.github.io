@@ -11,7 +11,7 @@ Here are the links to all of the 23 GOF design patterns that I have been
 writing till now. Its in the order that I have been posting.
 
 Structural Patterns
-
+<!--more-->
 1.  [Decorator
     Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy

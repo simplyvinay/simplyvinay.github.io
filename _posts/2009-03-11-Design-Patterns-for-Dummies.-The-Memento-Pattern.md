@@ -11,7 +11,7 @@ I have been writing about the GOF design patterns for quite some time
 now, and, this would be the last of the series. I will be writing about
 the Memento pattern today which is  a behavioral pattern. You can read
 about the other patterns from the following links.
-
+<!--more-->
 1.  [Strategy
     Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State

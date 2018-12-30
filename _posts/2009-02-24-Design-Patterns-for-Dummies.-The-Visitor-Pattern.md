@@ -10,7 +10,7 @@ redirect_from: "/Post/38/Design-Patterns-for-Dummies.-The-Visitor-Pattern.aspx/"
 Following on the series of posts on design patterns I will be talking
 about the Visitor Pattern today. Visitor is behavioral pattern. You can
 read about the other behavioral patterns from the following links.
-
+<!--more-->
 1.  [Strategy
     Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State

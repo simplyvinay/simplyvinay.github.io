@@ -16,7 +16,7 @@ in my previous posts. You can get all the links for them
 [here](/2008/12/15/Structural-Design-Patterns/)
 and
 [here](/2009/01/12/Creational-Design-Patterns/).
-
+<!--more-->
 **Behavioral Patterns**
 
 Behavioral patterns are concerned with algorithms and communication

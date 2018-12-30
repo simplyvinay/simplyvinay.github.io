@@ -24,7 +24,7 @@ create a new transaction for us and this is held until the action is
 complete after which we commit the transaction. We are getting a new
 instance of \_unitOfWork through an IoC container which I will talk
 about in a bit.
-
+<!--more-->
 {% highlight csharp %}
 namespace MPBlog.Web.UI.ActionFilters
 {

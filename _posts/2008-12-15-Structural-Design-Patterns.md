@@ -10,7 +10,7 @@ redirect_from: "/Post/23/Structural-Design-Patterns.aspx/"
 In the previous few posts I have been writing about design patterns and
 for now I have completed the structural patterns as described by the
 GOF. Below are the links to all the structural patterns.
-
+<!--more-->
 1.  [Decorator
     Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/)
 2.  [Proxy

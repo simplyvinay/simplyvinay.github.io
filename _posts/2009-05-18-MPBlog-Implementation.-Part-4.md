@@ -25,7 +25,7 @@ persisted into. It could well be a flat file or any other RDBMS.
 Preferably each of your domain object would have its own repository. But
 for the sake of keeping it simple, I am using a generic repository in
 the following code.
-
+<!--more-->
 {% highlight csharp %}
 namespace MPBlog.Core.BaseClasses
 {

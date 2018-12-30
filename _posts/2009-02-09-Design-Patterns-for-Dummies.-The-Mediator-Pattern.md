@@ -11,7 +11,7 @@ In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the Mediator
 Pattern. You can read about rest of the patterns from the following
 links
-
+<!--more-->
 1.  [Strategy
     Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State

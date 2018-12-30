@@ -11,7 +11,7 @@ This is the continuing post in a series of post on Design patterns.
 Presently we are going through the structural patterns. I will be
 writing about the Façade pattern today. This would be the last
 structural pattern.
-
+<!--more-->
 You can read about the other patterns from the following links
 
 1.  [Decorator

@@ -12,7 +12,7 @@ Presently we are going through the structural patterns. In my previous
 post I had discussed about the [Decorator
     Pattern](/2008/11/17/Design-Patterns-for-Dummies.-The-Decorator-Pattern/).
 I will be writing about the proxy pattern today.
-
+<!--more-->
 
 Proxy patterns is all about creating small objects which in turn are
 used in creating and accessing more complex objects.

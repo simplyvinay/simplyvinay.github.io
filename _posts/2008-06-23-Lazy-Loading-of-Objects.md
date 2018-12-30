@@ -12,7 +12,7 @@ when requested and not when the object instance is created.
 
 For Eg. suppose we have a Blog class which has a blogText property. Now
 this property can be encapsulated like so.
-
+<!--more-->
 {% highlight csharp %}
 public string BlogText
 {

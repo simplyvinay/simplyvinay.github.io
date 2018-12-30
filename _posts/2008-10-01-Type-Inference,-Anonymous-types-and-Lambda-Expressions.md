@@ -17,7 +17,7 @@ this was long overdue, but anyway, here it is.
 When we are using type inference which was introduced in C# 3.0, the
 compiler determines the type of the variable at compile time. Here is an
 example of type inference.
-
+<!--more-->
 {% highlight csharp %}
 public class TypeInference
 {

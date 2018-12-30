@@ -12,7 +12,7 @@ design patterns. Currently I am going through Creational design
 patterns, I will be discussing about the Abstract Factory pattern in
 this post. You can read about the other patterns from the following
 links.
-
+<!--more-->
 1.  [Prototype
     Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 2.  [Factory Method

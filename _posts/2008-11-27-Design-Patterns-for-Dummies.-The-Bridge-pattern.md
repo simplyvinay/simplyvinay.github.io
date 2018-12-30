@@ -10,7 +10,7 @@ redirect_from: "/Post/16/Design-Patterns-for-Dummies.-The-Bridge-pattern.aspx/"
 This is the third post in a series of post on Design patterns. Presently
 we are going through the structural patterns. I will be writing about
 the bridge pattern today.
-
+<!--more-->
 You can read about the other patterns from the following links
 
 1.  [Decorator

@@ -15,7 +15,7 @@ and
 In these posts I have just described the new features of C# 3.0 without
 going much into details. If time permits I will elaborate on each of
 these.
-
+<!--more-->
 **Extension Methods**
 
 Prior to C# 3.0, the only way to update member information of a

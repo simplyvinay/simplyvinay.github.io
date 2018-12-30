@@ -10,7 +10,7 @@ redirect_from: "/Post/29/Creational-Design-Patterns.aspx/"
 In my last five posts, I have written about the Creational Design
 Patterns as described by the GOF. Below are the links for all the
 Creational patterns.
-
+<!--more-->
 1.  [Prototype
     Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 2.  [Factory Method

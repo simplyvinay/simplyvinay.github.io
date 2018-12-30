@@ -15,7 +15,7 @@ Driven Design ) along with other
 hard for me not to notice the buzz around DDD and got me interested in
 it. As the title says, I would want to see what these things mean and
 how to develop an application around or rather using these technologies.
-
+<!--more-->
 So I am going to start a “Learn as you build” series in which I build a
 blog engine using these technologies ( or methodologies ). This is not a
 full fledged blog engine mind you. This is a process of learning new

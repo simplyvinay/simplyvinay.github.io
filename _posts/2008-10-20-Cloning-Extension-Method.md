@@ -18,7 +18,7 @@ method of the object. You can implement the *Clone* method of the
 copy. I somehow did not like the idea of implementing this *Clone*
 method in each and every class that I wanted to clone, so I created a
 generic class  to get the deep cloning working. Here is the code.
-
+<!--more-->
 {% highlight csharp %}
 public class GenericClone
 {

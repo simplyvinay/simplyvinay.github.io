@@ -19,7 +19,7 @@ application load. So as a last minute change i used
 [UrlRewritingNet.UrlRewrite](http://www.urlrewriting.net/). I did not
 have to change much of the thing for this to work. Its pretty straight
 forward to setup and use.
-
+<!--more-->
 First you have to add a config section
 
 {% highlight csharp %}

@@ -10,13 +10,12 @@ redirect_from: "/Post/2/Logging-using-Interceptors-in-Windsor-Container.aspx/"
 The Windsor container gives you a provision of adding behavior to
 components without having to change the components implementation. For
 example if you want to log whenever a method is called through your
-services class say CustomerService, you can assign an Interceptor for
 this particular component and add behavior when this component is
 called. Lets see how logging can be achieved for the CustomerService
 component.
 
 First thing is to create a LogInterceptor.
-
+<!--more-->
 {% highlight csharp %}
 public class LogInterceptor : IInterceptor
 {

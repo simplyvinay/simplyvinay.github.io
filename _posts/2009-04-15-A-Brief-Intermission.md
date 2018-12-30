@@ -23,7 +23,7 @@ sample application I was building.
 > indicate your using \*some\* of the patterns from DDD but not others
 > (including the working with domain experts) and that this isn't
 > necessarily the sort of problem that suits a full DDD approach
-
+<!--more-->
 And for the application itself…
 
 > I don't think it suits full DDD no, because you need domain experts

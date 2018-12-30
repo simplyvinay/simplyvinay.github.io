@@ -10,7 +10,7 @@ redirect_from: "/Post/25/Design-Patterns-For-Dummies.-The-Factory-Method-Pattern
 In continuation of my posts on Creational design patterns, I will be
 discussing about the Factory Method pattern in this post. You can read
 about the other patterns from the following links.
-
+<!--more-->
 1.  [Prototype
     Pattern](/2008/12/15/Design-Patterns-For-Dummies.-The-Prototype-Pattern/)
 

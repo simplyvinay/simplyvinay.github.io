@@ -10,7 +10,7 @@ redirect_from: "/Post/31/Design-Patterns-for-Dummies.-The-State-Pattern.aspx/"
 In continuation with the series on design pattern, I am currently going
 through Behavioral Patterns. Today I will write about the State Pattern.
 You can read about the other patterns from the following links
-
+<!--more-->
 1.  [Strategy
     Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 

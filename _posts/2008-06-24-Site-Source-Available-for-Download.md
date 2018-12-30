@@ -23,7 +23,7 @@ Here is a list of features that i have implemented.
 8.  RSS feeds
 9.  Technorati ping.
 10. Caching features for performance.
-
+<!--more-->
 I would love to hear some feedbacks on the design so that i could better
 the application in any way possible.
 

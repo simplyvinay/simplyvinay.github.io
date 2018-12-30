@@ -21,7 +21,7 @@ The project structure has changed a bit from what I had shown
 There is no longer separate layers for infrastructure and domain. I have
 clubbed these 2 layers into a single Core layer. The other layers are
 just the same.
-
+<!--more-->
 Lets get started by creating our domain objects.
 
 *The domain objects*

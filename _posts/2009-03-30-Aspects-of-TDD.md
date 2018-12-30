@@ -18,7 +18,7 @@ tests to know the area for which we are building the software. Tests
 written during the development phase helps you in understanding the
 domain, and, after development tests helps us document that system.
 Following are a few things about TDD that I have understood
-
+<!--more-->
 *The Steps*
 
 1. We write a failing test. We have to identity whether the test is testing what is intended in this step.

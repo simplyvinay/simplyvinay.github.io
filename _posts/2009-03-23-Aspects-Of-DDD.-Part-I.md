@@ -16,7 +16,7 @@ is not breaking away from the core Object Oriented design principles,
 but to utilize them in the right way. There are many aspects in DDD
 which we need to consider when building an application. Following are
 the aspects and their brief explanations from what I have understood.
-
+<!--more-->
 *The Ubiquitous Language ( UL )*
 
 Developers when building a software tend to wholly dwell into the

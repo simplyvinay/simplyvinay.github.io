@@ -19,7 +19,7 @@ root is the object that holds them together. Aggregate root is always an
 entity. Say for example in a blog application a comment would be related
 to a post. So post and comments become an aggregate and post becomes the
 aggregate root as there cant be any comments without a post.
-
+<!--more-->
 Aggregates are to be considered as one unit with regard to any data
 manipulation and these aggregates can be accessed from outside only
 through their aggregate root. This mechanism of accessing the objects

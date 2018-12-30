@@ -12,7 +12,7 @@ redirect_from: "/Post/6/Automatic-Properties-and-Object-Initializers.aspx/"
 In this post we will look at some of the new features added in C# 3.0.
 The first of these will be automatic properties. Automatic properties
 gives us with a shorthand notation for defining a new property.
-
+<!--more-->
 {% highlight csharp %}
 public class AutoProp
 {

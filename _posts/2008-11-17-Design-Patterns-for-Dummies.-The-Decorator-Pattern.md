@@ -15,7 +15,7 @@ There are 23 design patterns as observed by the Gang Of Four (Erich
 Gamma, Richard Helm, Ralph Johnson, and John Vlissides). And they are
 categorized basically into 3 segments viz. Structural, Creational and
 Behavioral patterns. I will take these in order.
-
+<!--more-->
 To begin with I will start with the Decorator pattern.
 
 Decorator pattern comes under Structural patterns which dwells on how

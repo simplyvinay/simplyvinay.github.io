@@ -19,7 +19,7 @@ base entity object. As discussed before, an
 is something that has an identity. This would be our layer supertype
 because this class will be inherited by all our domain objects that
 needs to have an identity.
-
+<!--more-->
 {% highlight csharp %}
 namespace DDDBlog.Infrastructure.BaseClasses
 {

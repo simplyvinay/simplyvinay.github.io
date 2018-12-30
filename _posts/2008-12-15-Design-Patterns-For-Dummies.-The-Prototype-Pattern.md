@@ -12,7 +12,7 @@ Patterns from today. I have written about [Structural
 Patterns](/2008/12/15/Structural-Design-Patterns/)
 in my previous posts. You can get all the links for them
 [here](/2008/12/15/Structural-Design-Patterns/).
-
+<!--more-->
 **Creational Patterns**
 
 Creational patterns deals with separation of a system in terms of how

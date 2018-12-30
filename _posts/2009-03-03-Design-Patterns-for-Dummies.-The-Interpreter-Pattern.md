@@ -10,7 +10,7 @@ redirect_from: "/Post/39/Design-Patterns-for-Dummies.-The-Interpreter-Pattern.as
 Following up on the series on design patterns, I will be writing about
 the Interpreter pattern today. Interpreter is  a behavioral pattern. You
 can read about the other patterns from the following links.
-
+<!--more-->
 1.  [Strategy
     Pattern](/2009/01/12/Design-Patterns-for-Dummies.-The-Strategy-Pattern/)
 2.  [State
