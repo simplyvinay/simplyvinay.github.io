@@ -12,9 +12,11 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.comments.enabled %}
-    {% include comments.html %}
-  {% endif %}
+  <div class="comments">
+    {% if site.comments.enabled %}
+      {% include comments.html %}
+    {% endif %}
+  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

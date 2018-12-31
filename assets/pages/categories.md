@@ -38,16 +38,20 @@ include_nav: true
     
     <a name="{{ category_name | slugize }}"></a>
     <h4 class="category-head">{{ category_name }}</h4>
+    <ul>
       {% for post in site.categories[category_name] %}
-      <div class="archives">
-          <h3 class="title"><a href="{{ post.url }}">{{post.title}}</a></h3>
-          <div class="meta">
-              {% if site.comments.enabled and site.comments.show_count == true %}
-              {% include post/comments_link.html %}
-              {% endif %}
-          </div>
-      </div>
+      <li>
+        <div class="archives">
+            <h3 class="title"><a href="{{ post.url }}">{{post.title}}</a></h3>
+            <div class="meta">
+                {% if site.comments.enabled and site.comments.show_count == true %}
+                {% include post/comments_link.html %}
+                {% endif %}
+            </div>
+        </div>
+      </li>
       {% endfor %}
+    </ul>
     <div style="border-bottom: 1px solid;">
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
     </div>

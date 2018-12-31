@@ -16,6 +16,7 @@ be calling the application DDDBlog.
 
 Lets create the project structure as shown below.
 <!--more-->
+
 [![solution](/assets/img/2009-04-06/solution.png "solution")](/assets/img/2009-04-06/solution.png)
 
 *DDDBlog.Domain* : Domain layer is where the Plain-Old CLR Objects

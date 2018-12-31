@@ -6,7 +6,7 @@
   </div>
 
   {% assign page_paths = site.pages | where: 'include_nav', true | map: "path" %}
-  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.sidepanel_title | escape }}</a>
   {% if site.subtitle %}
   <div class="site-subtitle">{{ site.subtitle }}</div>
   {% endif %}
